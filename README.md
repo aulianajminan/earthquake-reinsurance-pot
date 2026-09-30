@@ -7,12 +7,15 @@ Statistical analysis for estimating Excess-of-Loss reinsurance premiums for doub
 
 ## Contents
 * Data preprocessing
-* Peak Over Threshold (POT) analysis
+* Peak Over Threshold (POT) approach
 * Generalized Pareto Distribution (GPD) estimation
+* Goodness-of-fit testing
 * Excess-of-Loss premium calculation
-* Results and analysis
+* Single-risk and double-risk premium estimation
 
-## Full Project Explanation
-For the complete methodology, analysis, results, and discussion, read the full project documentation on Medium:
+## Data Source
+The analysis uses historical disaster data from BNPB's Data Informasi Bencana Indonesia (DIBI).
 
+## Project Documentation
+For the complete methodology, analysis, results, and discussion:
 **[Read the Full Project on Medium](https://medium.com/@aulianajmina.n/from-earthquake-loss-data-to-reinsurance-premium-a-peak-over-threshold-approach-547b8ffe4d1a)**
